@@ -33,10 +33,10 @@ This project utilizes Tkinter to create a flash card application where users can
 
 ### Interface
 * Click Check Mark
-<img width="890" alt="Screenshot 2024-10-27 at 5 52 42 PM" src="https://github.com/user-attachments/assets/b093f9b7-7a89-4ac1-9af1-da528a9d5ae9">
+<img width="594" alt="Screenshot 2024-10-27 at 5 54 16 PM" src="https://github.com/user-attachments/assets/6766252e-71bf-4156-a5bc-d8827a9c9caf">
 
 * Click Cross Mark
-<img width="899" alt="Screenshot 2024-10-08 at 9 01 23 PM" src="https://github.com/user-attachments/assets/bbf9cf9e-5194-4a55-90af-2acb7b6df6a3">
+<img width="594" alt="Screenshot 2024-10-27 at 5 54 28 PM" src="https://github.com/user-attachments/assets/2a1128c6-69aa-4d0f-beea-23465bfc0519">
 
 The application presents a French word on each card. You can either:
 * Click the Check Mark to pass the word if you know it.
