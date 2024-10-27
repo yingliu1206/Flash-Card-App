@@ -19,7 +19,6 @@ This project utilizes Tkinter to create a flash card application where users can
 * Dynamic Learning: Unfamiliar words are reviewed multiple times until mastered.
 * Persistent Progress: When reopening the app, it focuses on previously unlearned words.
 * Simple UI: Intuitive interface built with Tkinter.
-  
 
 ## How to Use
 
@@ -34,7 +33,7 @@ This project utilizes Tkinter to create a flash card application where users can
 
 ### Interface
 * Click Check Mark
-<img width="900" alt="Screenshot 2024-10-08 at 9 01 08 PM" src="https://github.com/user-attachments/assets/6ee80098-9035-44f7-976a-0c9751692b84">
+<img width="890" alt="Screenshot 2024-10-27 at 5 52 42 PM" src="https://github.com/user-attachments/assets/b093f9b7-7a89-4ac1-9af1-da528a9d5ae9">
 
 * Click Cross Mark
 <img width="899" alt="Screenshot 2024-10-08 at 9 01 23 PM" src="https://github.com/user-attachments/assets/bbf9cf9e-5194-4a55-90af-2acb7b6df6a3">
